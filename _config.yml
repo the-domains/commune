@@ -1,0 +1,28 @@
+name: Commune
+favicon: null
+layout_spectrum: 0.7250631691422313
+typography_spectrum: 0.9957371240016073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1314821089617908
+  lightness: 0.6239537978544831
+  saturation: 0.42281338293105364
+  rhythmicContrast: 0.10410723416134715
+purpose: []
