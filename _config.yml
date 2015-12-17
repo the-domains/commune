@@ -1,7 +1,7 @@
 name: Commune
 favicon: null
-layout_spectrum: 0.7250631691422313
-typography_spectrum: 0.9957371240016073
+layout_spectrum: 0.51504
+typography_spectrum: 0.75875
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.1314821089617908
-  lightness: 0.6239537978544831
+    - '#141a1a'
+    - '#f9f8f4'
+    - '#3b382f'
+    - '#c7b194'
+    - '#7e674f'
+  brandStrength: 0.5
+  lightness: 0.8125
   saturation: 0.42281338293105364
-  rhythmicContrast: 0.10410723416134715
+  rhythmicContrast: 0.75
 purpose: []
